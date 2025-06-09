@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.152834e7.css",
-    "main.js": "./static/js/main.0892b816.js",
+    "main.css": "./static/css/main.c352b603.css",
+    "main.js": "./static/js/main.4c063060.js",
     "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
+    "static/media/apex.png": "./static/media/apex.4615ca368c1082cbbfeb.png",
     "static/media/capstone.png": "./static/media/capstone.457cbc39640c75e951c7.png",
     "static/media/jcole.png": "./static/media/jcole.50f370b87bbdfda3a524.png",
     "static/media/Delilo-Dilela.png": "./static/media/Delilo-Dilela.78d1a87dab5af2787e68.png",
     "static/media/React-App.png": "./static/media/React-App.dca921284821cb4f7968.png",
     "static/media/Fixer-Within.png": "./static/media/Fixer-Within.463d365920292ea9a368.png",
     "static/media/ArchivoBlack-Regular.ttf": "./static/media/ArchivoBlack-Regular.756e4893baa794d19b24.ttf",
+    "static/media/Intraverse.png": "./static/media/Intraverse.ff06214fcadbb814e9c0.png",
     "static/media/google.svg": "./static/media/google.017a45d3b6f5a102593a4738f433b526.svg",
     "static/media/phone.svg": "./static/media/phone.d5d74dd265654875bb47580ca3c19bf8.svg",
     "static/media/linkedin.svg": "./static/media/linkedin.797b4cd575cc8e35811090a59738cb51.svg",
     "static/media/github.svg": "./static/media/github.fc0ffe042a9582d2a394e1c609baa9f2.svg",
     "index.html": "./index.html",
-    "main.152834e7.css.map": "./static/css/main.152834e7.css.map",
-    "main.0892b816.js.map": "./static/js/main.0892b816.js.map",
+    "main.c352b603.css.map": "./static/css/main.c352b603.css.map",
+    "main.4c063060.js.map": "./static/js/main.4c063060.js.map",
     "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.152834e7.css",
-    "static/js/main.0892b816.js"
+    "static/css/main.c352b603.css",
+    "static/js/main.4c063060.js"
   ]
 }
